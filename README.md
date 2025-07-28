@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 - [SkillFactory](https://skillfactory.ru/) \
 2025 г. [Профессия Data Scientist](https://disk.yandex.ru/i/W77fUW-m8xlIIQ)
 
-- [Stepik. Shultais Education](https://stepik.org/users/ShultaisEducation/teach)\
-2025 г. [Основы SQL](https://stepik.org/cert/2880831)
+- [Stepik. Shultais Education](https://stepik.org/users/ShultaisEducation/teach)
+    - 2025 г. [Основы SQL](https://stepik.org/cert/2880831)
+    - 2025 г. [Продвинутый SQL](https://stepik.org/cert/2917555)
 
 ### 📊 Проекты
 
