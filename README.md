@@ -47,6 +47,8 @@ Here are some ideas to get you started:
   - [Краткий справочник понятий и фрагментов кода, используемых для решения Data Science задач](https://github.com/experiment0/data_science_helpers). \
     Создан как шпаргалка для быстрого поиска нужного кода и для первоначального структурирования знаний.
   - [Реализация логики формирования ответов чат-бота](https://github.com/experiment0/chatbot_product_talker)
+  - [Пример реализации мониторинга результатов дообучения модели](https://github.com/experiment0/monitoring_model)
+  - [Рекомендательная система товаров](https://github.com/experiment0/product_recommendation_system)
 
 - **Python**
   - [Серия простых арифметических консольных игр](https://github.com/experiment0/python-project-49)
