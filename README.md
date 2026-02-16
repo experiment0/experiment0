@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### :page_with_curl: Сертификаты
 
-- [SkillFactory](https://skillfactory.ru/) \
+- [SkillFactory](https://skillfactory.ru/)
   - 2025 г. [Профессия Data Scientist (1-й год обучения)](https://disk.yandex.ru/i/W77fUW-m8xlIIQ)
   - 2026 г. [Профессия Data Scientist по направлению Machine Learning (2-й год обучения)](https://disk.yandex.ru/i/FeQAEasGjaVHVQ)
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 ### 📊 Проекты
 
 - **Machine Learning**
-
   - [Проекты, реализованые в рамках учебного курса "Профессия Data Scientist"](https://github.com/experiment0/sf_data_science).
   - [Пара экспериментов с изменением внутреннего устройства моделей](https://github.com/experiment0/experiments) - реализованы в процессе их изучения.
   - [Краткий справочник понятий и фрагментов кода, используемых для решения Data Science задач](https://github.com/experiment0/data_science_helpers). \
