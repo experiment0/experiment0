@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ### :page_with_curl: Сертификаты
 
 - [SkillFactory](https://skillfactory.ru/) \
-  2025 г. [Профессия Data Scientist](https://disk.yandex.ru/i/W77fUW-m8xlIIQ)
+  - 2025 г. [Профессия Data Scientist (1-й год обучения)](https://disk.yandex.ru/i/W77fUW-m8xlIIQ)
+  - 2026 г. [Профессия Data Scientist по направлению Machine Learning (2-й год обучения)](https://disk.yandex.ru/i/FeQAEasGjaVHVQ)
 
 - [Stepik. Shultais Education](https://stepik.org/users/ShultaisEducation/teach)
   - 2025 г. [Основы SQL](https://stepik.org/cert/2880831)
