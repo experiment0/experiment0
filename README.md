@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   - [Серия простых арифметических консольных игр](https://github.com/experiment0/python-project-49)
   - [Вычислитель различий в конфигурационных файлах](https://github.com/experiment0/python-project-50)
   - [Анализатор страниц](https://github.com/experiment0/python-project-83)
+  - [Менеджер задач](https://github.com/experiment0/python-project-52)
 
 ### 💎 Опыт работы
 
