@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - Фреймворки: Scikit-learn, XGBoost, CatBoost.
   - Библиотеки: Numpy, Scipy, Pandas, Hyperopt, Optuna, Statsmodels, Pmdarima, Pickle, Prophet, nltk, SqlAlchemy.
   - Визуализация данных: Matplotlib, Seaborn, Plotly.
-  - Также: Docker, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
+  - Также: Docker, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask, Django.
 - 🙂 **Soft skills**
   - Ответственность, добросовестность, исполнительность, обучаемость, стрессоустойчивость, коммуникабельность, любознательность.
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - **Machine Learning**
   - [Проекты, реализованые в рамках учебного курса "Профессия Data Scientist"](https://github.com/experiment0/sf_data_science).
-  - [Пара экспериментов с изменением внутреннего устройства моделей](https://github.com/experiment0/experiments) - реализованы в процессе их изучения.
+  - [Эксперименты с изменением внутреннего устройства моделей](https://github.com/experiment0/experiments) - реализованы в процессе их изучения.
   - [Краткий справочник понятий и фрагментов кода, используемых для решения Data Science задач](https://github.com/experiment0/data_science_helpers). \
     Создан как шпаргалка для быстрого поиска нужного кода и для первоначального структурирования знаний.
   - [Реализация логики формирования ответов чат-бота](https://github.com/experiment0/chatbot_product_talker)
