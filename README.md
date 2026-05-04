@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   - 2026 г. [Python-разработчик](https://disk.yandex.ru/i/rEc305Xbg1wy9w)
 
 - [Stepik. Shultais Education](https://stepik.org/users/ShultaisEducation/teach)
-  - 2025 г. [Основы SQL](https://stepik.org/cert/2880831)
-  - 2025 г. [Продвинутый SQL](https://stepik.org/cert/2917555)
-  - 2025 г. [Проектирование баз данных](https://stepik.org/cert/2927821)
+  - 2025 г. [Основы SQL](https://disk.yandex.ru/i/rFYXIvC5tYUpMA)
+  - 2025 г. [Продвинутый SQL](https://disk.yandex.ru/i/BrTV-g599YVinQ)
+  - 2025 г. [Проектирование баз данных](https://disk.yandex.ru/i/FUg1SgztkM4QrQ)
 
 ### 📊 Проекты
 
