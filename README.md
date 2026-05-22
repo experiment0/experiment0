@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   - 2026 г. [Профессия Data Scientist по направлению Machine Learning (2-й год обучения)](https://disk.yandex.ru/i/FeQAEasGjaVHVQ)
 
 - [Hexlet](https://ru.hexlet.io/)
-  - 2026 г. [Python-разработчик](https://disk.yandex.ru/i/rEc305Xbg1wy9w)
+  - 2026 г. [Python-разработчик](https://disk.yandex.ru/i/rEc305Xbg1wy9w) (есть также диплом о проф. переподготовке)
 
 - [Stepik. Shultais Education](https://stepik.org/users/ShultaisEducation/teach)
   - 2025 г. [Основы SQL](https://disk.yandex.ru/i/rFYXIvC5tYUpMA)
@@ -52,6 +52,10 @@ Here are some ideas to get you started:
   - [Реализация логики формирования ответов чат-бота](https://github.com/experiment0/chatbot_product_talker)
   - [Пример реализации мониторинга результатов дообучения модели](https://github.com/experiment0/monitoring_model)
   - [Рекомендательная система товаров](https://github.com/experiment0/product_recommendation_system)
+
+- **MLOps**
+  - [Код-ревью ml-пайплайна для обучения модели по предсказанию цен поездок на такси](https://github.com/experiment0/yandex-practicum-mlops-project-code-review/pull/1)
+  - [Реализация CI/CD для сервиса по предсказанию цен поездок на такси](https://mlops.gitlab.yandexcloud.net/s1949581/module-6-final-antipova)
 
 - **Python**
   - [Серия простых арифметических консольных игр](https://github.com/experiment0/python-project-49)
